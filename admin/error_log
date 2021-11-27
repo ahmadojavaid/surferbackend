@@ -1,0 +1,6 @@
+[21-Jan-2016 00:35:07 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/takeaway/public_html/Clients/islamicapp/admin/add_products.php on line 1
+[21-Jan-2016 00:35:07 UTC] PHP Warning:  include(includes/header.php): failed to open stream: No such file or directory in /home/takeaway/public_html/Clients/islamicapp/admin/add_products.php on line 1
+[21-Jan-2016 00:35:07 UTC] PHP Warning:  include(): Failed opening 'includes/header.php' for inclusion (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/takeaway/public_html/Clients/islamicapp/admin/add_products.php on line 1
+[21-Jan-2016 00:35:07 UTC] PHP Warning:  require(includes/function.php): failed to open stream: No such file or directory in /home/takeaway/public_html/Clients/islamicapp/admin/add_products.php on line 3
+[21-Jan-2016 00:35:07 UTC] PHP Warning:  require(includes/function.php): failed to open stream: No such file or directory in /home/takeaway/public_html/Clients/islamicapp/admin/add_products.php on line 3
+[21-Jan-2016 00:35:07 UTC] PHP Fatal error:  require(): Failed opening required 'includes/function.php' (include_path='.:/opt/alt/php55/usr/share/pear:/opt/alt/php55/usr/share/php') in /home/takeaway/public_html/Clients/islamicapp/admin/add_products.php on line 3
